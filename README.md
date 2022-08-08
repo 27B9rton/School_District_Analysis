@@ -60,4 +60,19 @@ Among the 15 schools and 39, 170 students:
 - 85.7 % of students were passing Reading
 - 64.9% of students were passing both Math and Reading
 
+# Thomas High School Findings
+9th graders scores at Thomas High School (THS) were replaced.
+Originally, THS had 83% of students passing math. That number jumped to 93% when the 9th grade scores were discounted.
+THS also had 83% of students passing reading. That number changed to 97 % with no 9th grade scores.
+THS had almost no change in the total % passing when the 9th grade scores were removed. 
+
+### THS 9th Grade Scores Removed
+
+Removing the 9th grade scores from THS slightly lowered the overall passing %, the % passing reading, and the % passing math for the entire District.
+
+
+Removing the 9th grade scores from THS had little to no effect on the Scores by school spending.
+Removing the 9th grade scores from THS shrunk the medium sized school % overall passing by nearly .1%.
+Removing the 9th grade scores from THS had little to no effect on the Scores by school type.
+
 
