@@ -65,8 +65,9 @@ Among the 15 schools and 39, 170 students:
 Originally, THS had 83% of students passing math. That number jumped to 93% when the 9th grade scores were discounted.
 THS also had 83% of students passing reading. That number changed to 97 % with no 9th grade scores.
 THS had almost no change in the total % passing when the 9th grade scores were removed. 
+Removing the 9th grade scores did slightly lower the averages for the school, but not enough to remove Thomas High School from the Top 5 performing schools. They were ranked 2nd both before and after the analysis.
 
-### THS 9th Grade Scores Removed
+### Effect of THS 9th Grade Scores Removed on District.
 
 Removing the 9th grade scores from THS slightly lowered the overall passing %, the % passing reading, and the % passing math for the entire District.
 
