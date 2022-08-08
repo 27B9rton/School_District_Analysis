@@ -1,8 +1,8 @@
 # School_District_Analysis
-##Project Overview
+## Project Overview
 This analysis was done for a School Board to see passing rates and trends for a school district. The data was cleaned and passing percentages for reading/math/overall were found for students by grade, by school, by school type, and district-wide averages. The initial code needed to be refactored to remove Thomas High School's 9th grade class, which had data integrity issues.
 
-##Summary Findings
+## Summary Findings
 
 ### Top Performers
 The Top 5 schools in Overall Passing percentage were:
